@@ -1,0 +1,58 @@
+[ {
+  "nombre" : "Favoritos",
+  "idPlaylist" : 4,
+  "listaCanciones" : [ ],
+  "idCliente" : 9
+}, {
+  "nombre" : "Laboratorio III",
+  "idPlaylist" : 5,
+  "listaCanciones" : [ ],
+  "idCliente" : 11
+}, {
+  "nombre" : "Laboratorio IV",
+  "idPlaylist" : 6,
+  "listaCanciones" : [ ],
+  "idCliente" : 11
+}, {
+  "nombre" : "Base de Datos",
+  "idPlaylist" : 7,
+  "listaCanciones" : [ ],
+  "idCliente" : 11
+}, {
+  "nombre" : "Funciona por favor!!!!",
+  "idPlaylist" : 9,
+  "listaCanciones" : [ {
+    "nombre" : "Hey you",
+    "artista" : "Pink Floyd",
+    "album" : "The Wall",
+    "duracion" : "4:41",
+    "comentarios" : "Increible solo",
+    "genero" : "ROCK",
+    "idCancion" : 7,
+    "reproduciendo" : false
+  }, {
+    "nombre" : "Mic Drop",
+    "artista" : "BTS",
+    "album" : "Love yourself: Her",
+    "duracion" : "4:34",
+    "comentarios" : "Para bailar",
+    "genero" : "KPOP",
+    "idCancion" : 1,
+    "reproduciendo" : true
+  } ],
+  "idCliente" : 11
+}, {
+  "nombre" : "Nacional",
+  "idPlaylist" : 10,
+  "listaCanciones" : [ {
+    "nombre" : "Profugos",
+    "artista" : "Soda Stereo",
+    "album" : "Signos",
+    "duracion" : "5:21",
+    "comentarios" : "Clasico",
+    "genero" : "ROCK",
+    "idCancion" : 10,
+    "reproduciendo" : false
+  } ],
+  "idCliente" : 12
+} ]

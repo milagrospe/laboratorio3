@@ -1,0 +1,100 @@
+[ {
+  "nombre" : "Mic Drop",
+  "artista" : "BTS",
+  "album" : "Love yourself: Her",
+  "duracion" : "4:34",
+  "comentarios" : "Para bailar",
+  "genero" : "KPOP",
+  "idCancion" : 1,
+  "reproduciendo" : false
+}, {
+  "nombre" : "A Place Where You Belong",
+  "artista" : "Bullet for my Valentine",
+  "album" : "Fever",
+  "duracion" : "5:00",
+  "comentarios" : "Muy buena",
+  "genero" : "METAL",
+  "idCancion" : 2,
+  "reproduciendo" : false
+}, {
+  "nombre" : "Too Many Tears",
+  "artista" : "Whitesnake",
+  "album" : "Restless Heart",
+  "duracion" : "5:00",
+  "comentarios" : "Clasico",
+  "genero" : "ROCK",
+  "idCancion" : 3,
+  "reproduciendo" : false
+}, {
+  "nombre" : "Levitating",
+  "artista" : "Dua Lipa",
+  "album" : "Future Nostalgia",
+  "duracion" : "4:00",
+  "comentarios" : "Im levitating...",
+  "genero" : "POP",
+  "idCancion" : 4,
+  "reproduciendo" : false
+}, {
+  "nombre" : "Llamado de emergencia",
+  "artista" : "Daddy Yankee",
+  "album" : "Talento de Barrio",
+  "duracion" : "5:00",
+  "comentarios" : "The big boss",
+  "genero" : "REGGAETON",
+  "idCancion" : 5,
+  "reproduciendo" : false
+}, {
+  "nombre" : "Es Epico",
+  "artista" : "Canserbero",
+  "album" : "Muerte",
+  "duracion" : "6:00",
+  "comentarios" : "Batalla final",
+  "genero" : "RAP",
+  "idCancion" : 6,
+  "reproduciendo" : false
+}, {
+  "nombre" : "Hey you",
+  "artista" : "Pink Floyd",
+  "album" : "The Wall",
+  "duracion" : "4:41",
+  "comentarios" : "Increible solo",
+  "genero" : "ROCK",
+  "idCancion" : 7,
+  "reproduciendo" : false
+}, {
+  "nombre" : "Lost",
+  "artista" : "Linkin Park",
+  "album" : "Meteora 20th Anniversary Edition",
+  "duracion" : "3:18",
+  "comentarios" : "Increible!!",
+  "genero" : "METAL",
+  "idCancion" : 8,
+  "reproduciendo" : false
+}, {
+  "nombre" : "Master of Puppets",
+  "artista" : "Metallica",
+  "album" : "Master of Puppets",
+  "duracion" : "8:35",
+  "comentarios" : "Increible solo",
+  "genero" : "METAL",
+  "idCancion" : 9,
+  "reproduciendo" : false
+}, {
+  "nombre" : "Profugos",
+  "artista" : "Soda Stereo",
+  "album" : "Signos",
+  "duracion" : "5:21",
+  "comentarios" : "Clasico",
+  "genero" : "ROCK",
+  "idCancion" : 10,
+  "reproduciendo" : false
+}, {
+  "nombre" : "One Dance",
+  "artista" : "Drake",
+  "album" : "Keep The Familiy Close",
+  "duracion" : "2:53",
+  "comentarios" : "Excelente",
+  "genero" : "POP",
+  "idCancion" : 11,
+  "reproduciendo" : false
+} ]

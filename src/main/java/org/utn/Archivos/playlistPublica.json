@@ -1,0 +1,49 @@
+[ {
+  "nombre" : "Playlist Publica 1",
+  "idPlaylist" : 1,
+  "listaCanciones" : [ {
+    "nombre" : "A Place Where You Belong",
+    "artista" : "Bullet for my Valentine",
+    "album" : "Fever",
+    "duracion" : "5:00",
+    "comentarios" : "Muy buena",
+    "genero" : "METAL",
+    "idCancion" : 2,
+    "reproduciendo" : false
+  } ]
+}, {
+  "nombre" : "Playlist Publica 2",
+  "idPlaylist" : 2,
+  "listaCanciones" : [ {
+    "nombre" : "Llamado de emergencia",
+    "artista" : "Daddy Yankee",
+    "album" : "Talento de Barrio",
+    "duracion" : "5:00",
+    "comentarios" : "The big boss",
+    "genero" : "REGGAETON",
+    "idCancion" : 5,
+    "reproduciendo" : false
+  }, {
+    "nombre" : "Master of Puppets",
+    "artista" : "Metallica",
+    "album" : "Master of Puppets",
+    "duracion" : "8:35",
+    "comentarios" : "Increible solo",
+    "genero" : "METAL",
+    "idCancion" : 9,
+    "reproduciendo" : false
+  } ]
+}, {
+  "nombre" : "Playlist Publica 3",
+  "idPlaylist" : 3,
+  "listaCanciones" : [ {
+    "nombre" : "Hey you",
+    "artista" : "Pink Floyd",
+    "album" : "The Wall",
+    "duracion" : "4:41",
+    "comentarios" : "Increible solo",
+    "genero" : "ROCK",
+    "idCancion" : 7,
+    "reproduciendo" : false
+  } ]
+} ]
